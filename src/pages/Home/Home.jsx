@@ -46,7 +46,7 @@ function Home () {
                        />
                       ) : (
                         <video
-                        width={450}
+                        width={451}
                         controls
                         className=" bg-black"
                           src={`${import.meta.env.VITE_APP_FILES_URL}${
